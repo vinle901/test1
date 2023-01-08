@@ -1,3 +1,5 @@
 print('hello world')
 print('cai deo gi vay')
-print(2+3)
+print('cai con cat')
+print(2+3+6)
+print(2+4)
