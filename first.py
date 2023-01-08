@@ -1,2 +1,2 @@
 print('hello world')
-prin('cai deo gi vay')
+print('cai deo gi vay')
