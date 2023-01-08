@@ -1,5 +1,1 @@
 print('hello world')
-print(2+3+6)
-print(2+4)
-print('tao met qua')
-print('vai qua')
