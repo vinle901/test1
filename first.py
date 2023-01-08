@@ -1,6 +1,4 @@
 print('hello world')
-print('cai deo gi vay')
-print('cai con cat')
 print(2+3+6)
 print(2+4)
 print('tao met qua')
