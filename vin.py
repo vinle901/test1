@@ -1,1 +1,2 @@
-prin('anh hoang dep trai')
+print('anh hoang dep trai')
+print('vai dan')
